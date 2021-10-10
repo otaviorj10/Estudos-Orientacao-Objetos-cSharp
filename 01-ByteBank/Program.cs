@@ -14,7 +14,7 @@ namespace _01_ByteBank
             string titular2 = "bruno";
             int numeroagencia2 = 863;
             int numero2 = 864;
-            double saldo2 = 50;
+            double saldo2 = 500;
         }
     }
 }
